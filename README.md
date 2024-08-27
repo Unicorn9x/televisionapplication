@@ -1,3 +1,4 @@
+# **no longer maintained dont ask me about this pretty please**
 **Please do not use GitHub issues for support inquires.
 If you need assistance, you may ask in the
 [Discord channel.](https://discord.gg/mc4WaSApvS)**
