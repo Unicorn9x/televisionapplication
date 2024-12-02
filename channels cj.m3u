@@ -1,0 +1,549 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/htvcthuanviethd.jpg" tvg-id="68b75e7047086c7376b95c5c8ef0886d",HTVC Thuần Việt HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1885255528?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png" tvg-id="08c7803ff15ef6a7aa11ccf676b5bca0" tvg-chno="1",SCTV1 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1065404168?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/nhandan.jpg" tvg-id="c7c4d4b11bc7657dd60fd4cdbaf6b6f3" tvg-chno="2",Nhân Dân
+https://swag.chamjeans.com/tvheadend/stream/channelid/836027591?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/64" tvg-id="01b79ff0aa9744ce07f767bc96f5681f" tvg-chno="3",QUOC PHONG VN
+https://swag.chamjeans.com/tvheadend/stream/channelid/1889515265?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv4hd.png" tvg-id="4e1fd5f438edb5b1b1b94cf0990cfe9a" tvg-chno="4",SCTV4 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1960124238?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/19" tvg-id="062f6dd3970041b38b727e4246425d04" tvg-chno="5",SCTV5
+https://swag.chamjeans.com/tvheadend/stream/channelid/1399664390?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png" tvg-id="c5f567ba36d61af4c15ec6e2f945fc61" tvg-chno="6",SCTV6 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/979891653?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/77" tvg-id="3e0a2e96e8d4d5cc1135a73ca0c8e7bb" tvg-chno="7",QHVN
+https://swag.chamjeans.com/tvheadend/stream/channelid/372116030?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv8hd.png" tvg-id="5a0465cd5e8e469539dcc73a4a6dd3ba" tvg-chno="8",SCTV8 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1298465882?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctvhdpth.png" tvg-id="c2ec7fe42d636cc1436d458d1442ce2b" tvg-chno="9",SCTV HD Phim Tổng Hợp
+https://swag.chamjeans.com/tvheadend/stream/channelid/1686105282?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv9hd.png" tvg-id="95cb08602fa493710e62b6f91f758506" tvg-chno="10",SCTV9 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1611189141?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv11hd.png" tvg-id="3cf0f4276ac7d9bd6a6f0a7be31abfef" tvg-chno="11",SCTV11 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/670363708?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/antv.png" tvg-id="b320442ba2149072a242069828fff07e" tvg-chno="12",ANTV HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/725885107?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv13hd.png" tvg-id="6dd6eeadc5a962feb7ac34a80d211d53" tvg-chno="13",SCTV13 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/770627181?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv14hd.png" tvg-id="98b805bce9f573d9ef2471aded9042b7" tvg-chno="14",SCTV14 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1007007896?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtc1hd.jpg" tvg-id="2620c51a6285120acc1916a70aa066b4" tvg-chno="15",VTC1 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/449126438?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png" tvg-id="52cbd871963415652c59dda8e4d2e902" tvg-chno="16",SCTV16 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1910033234?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/123" tvg-id="0c4b7662ea5f10fd45a746aa99c64bc5" tvg-chno="17",SCTV10
+https://swag.chamjeans.com/tvheadend/stream/channelid/1651919628?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv17hd.png" tvg-id="61d0ea53a25ebe9366cbdec4e54e45e1" tvg-chno="18",SCTV17 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1407897697?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/ttxvn.jpg" tvg-id="738f495035d352036015d288ae029eaa" tvg-chno="19",TTXVN HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1346998131?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv19hd.png" tvg-id="bcbe029a52941067f1574916f115b36e" tvg-chno="20",SCTV19 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/436387516?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv20hd.png" tvg-id="b020cd7c86cfeb269f773e77a84ea875" tvg-chno="21",SCTV20 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/2093818032?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv21hd.jpg" tvg-id="dca3823ac4ba1c1d621fa1692ee31ee8" tvg-chno="22",SCTV21 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/981640156?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png" tvg-id="e0957d82823d9ed0e9b22ccc52a0770a" tvg-chno="23",SCTV22 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/41784800?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv18hd.png" tvg-id="610a167a78ed9275262237df0f941d56" tvg-chno="24",SCTV18 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/2048264801?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/htv3.png" tvg-id="0daeba1aeb9558c5da1ebb620d4bcd51" tvg-chno="25",HTV3
+https://swag.chamjeans.com/tvheadend/stream/channelid/448441869?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/52" tvg-id="72719ec420a36ac9e20b6a9ef47f3fc8" tvg-chno="26",HTV THE THAO
+https://swag.chamjeans.com/tvheadend/stream/channelid/1151234418?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" tvg-id="9b8730da99a3a27b6498fcc5d516da58" tvg-chno="27",VTV1 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1513129883?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" tvg-id="9babb974ba2e82278bdfcf15509d00b3" tvg-chno="28",VTV2 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1958325147?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hanoi1.png" tvg-id="c8c32c4231631f095a0698e5e53b8fe8" tvg-chno="29",Hà Nội 1
+https://swag.chamjeans.com/tvheadend/stream/channelid/1110229960?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg" tvg-id="da191fd5a458217139f2859d132b5654" tvg-chno="30",VTV3 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1428101594?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg" tvg-id="8b95b012784bb5fc045f15d1145439bf" tvg-chno="31",VTV5 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/313562507?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg" tvg-id="21ff3041c2f75f4f12c3f8665852c74d" tvg-chno="33",VTV Cần Thơ HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1093730081?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg" tvg-id="9471c4ac2b6beadc589a470220376c84" tvg-chno="34",VTV7 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/751071636?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg" tvg-id="e266349849ce26f63fb49e1c4da37c73" tvg-chno="35",VTV8 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/406087394?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg" tvg-id="7068c87d5abfb6b786acaaad43bd5566" tvg-chno="36",VTV9 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/2110285936?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg" tvg-id="2c00eaa7bb12e955b9218c85d4db9556" tvg-chno="37",THVL1 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/669646892?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/htv2hd.jpg" tvg-id="2529a25938bb13b20f000821a9686483" tvg-chno="38",HTV2 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1503799589?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/htv7hd.jpg" tvg-id="cf53d6065490d415d99584796cc83bf4" tvg-chno="40",HTV7 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/114709455?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/htv9hd.jpg" tvg-id="a5574267f07b3a738f07d62f4532eb00" tvg-chno="41",HTV9 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1732401061?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtc7hd.png" tvg-id="1715cda9b6bbc457371a2f668dd0f1fe" tvg-chno="42",VTC7 HD - Today TV
+https://swag.chamjeans.com/tvheadend/stream/channelid/701306135?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg" tvg-id="99010c6132eada62fb76618b81f0ed06" tvg-chno="43",VTV4 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1628176793?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vovtvhd.png" tvg-id="5fd6c38f3e257f461fb7c5f52ecf5e75" tvg-chno="44",VOVTV HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/264492639?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv12hd.png" tvg-id="b2f847b62dfe987c9df50235b6d63c9c" tvg-chno="45",SCTV12 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/910686386?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv7hd.png" tvg-id="fc74fbca2ccf4a59764e05a85f88c10a" tvg-chno="46",SCTV7 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1257993468?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv3hd.png" tvg-id="b1a6ec26285afbf65d636737738b3e23" tvg-chno="47",SCTV3 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/653043377?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv2hd.png" tvg-id="177c1ad799fa836a3ceabbf10a0ec4fc" tvg-chno="48",SCTV2 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1461353495?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png" tvg-id="2ca66fe0c284f1de641b5d159f958078" tvg-chno="49",VTV5 HD - Tây Nam Bộ
+https://swag.chamjeans.com/tvheadend/stream/channelid/1617929772?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv15hd.png" tvg-id="54ff5d12cf7738cd3c702efa1a3b9b58" tvg-chno="51",SCTV15 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/308150100?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/youtv.png" tvg-id="5c6e630a2e642b42f7be638fc65e82be" tvg-chno="52",HanoiCab 2
+https://swag.chamjeans.com/tvheadend/stream/channelid/174288476?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vie-giaitri.jpg" tvg-id="40b36bca9dae6e13b4355c03d4bb10a7" tvg-chno="54",VTVCab1 HD - Vie Giải Trí
+https://swag.chamjeans.com/tvheadend/stream/channelid/1248572224?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg" tvg-id="e3317ebba195fed5bc27a940ec69fb37" tvg-chno="55",ON Phim Việt
+https://swag.chamjeans.com/tvheadend/stream/channelid/998126051?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/40" tvg-id="8cf9bfdb449850d0a8a8de1bdefe794b" tvg-chno="56",VTVCab - ON Cine
+https://swag.chamjeans.com/tvheadend/stream/channelid/1539307916?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtvcab5hd.jpg" tvg-id="c9d3e8b583843b821796a3d7d5ffc31f" tvg-chno="57",ON Echanel
+https://swag.chamjeans.com/tvheadend/stream/channelid/904451017?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsplus.jpg" tvg-id="31116578deeef51da72a94c8941b723f" tvg-chno="58",ON Sports+
+https://swag.chamjeans.com/tvheadend/stream/channelid/2019889457?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" tvg-id="330f1aa02e50d4db9c703630c83d7248" tvg-chno="59",ON O2TV
+https://swag.chamjeans.com/tvheadend/stream/channelid/538578739?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-bibi.jpg" tvg-id="a3ce12b61c801ce22b65a060157fc509" tvg-chno="60",ON BiBi
+https://swag.chamjeans.com/tvheadend/stream/channelid/907202211?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtvcab9hd.jpg" tvg-id="dd6a0386648f9a6bd4d63c7bc72953f0" tvg-chno="61",ON Info TV
+https://swag.chamjeans.com/tvheadend/stream/channelid/100887261?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg" tvg-id="acc1f35dece1754a4cf63f4d8fddfcad" tvg-chno="62",ON Sports HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1576255916?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtvcab12hd.jpg" tvg-id="aa4890b3e3b0400f98dc869b31202380" tvg-chno="63",On Style
+https://swag.chamjeans.com/tvheadend/stream/channelid/865093802?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-music.jpg" tvg-id="3b8366efd60cc86cbcce6fa95e781249" tvg-chno="64",ON Music
+https://swag.chamjeans.com/tvheadend/stream/channelid/1868989243?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-football.jpg" tvg-id="919a9b82c98f0a20b53cdac7afa3c65a" tvg-chno="65",ON Football HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/43752081?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtvcab17hd.jpg" tvg-id="a086554b02e93cb79121222311cb7984" tvg-chno="66",ON Trending
+https://swag.chamjeans.com/tvheadend/stream/channelid/1263896224?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vie-dramas.jpg" tvg-id="96d1ba71124b24e97909945c58fd2112" tvg-chno="67",VTVCab19 HD - Vie DRAMAS
+https://swag.chamjeans.com/tvheadend/stream/channelid/1908068758?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtvcab20hd.jpg" tvg-id="2484b3db5807cb48af35c179cb80bed1" tvg-chno="68",ON VFamily
+https://swag.chamjeans.com/tvheadend/stream/channelid/1538491428?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png" tvg-id="b2b2a1b781ac6faf680cb23d13ea11d8" tvg-chno="69",THVL4 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/933343922?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtc2.jpg" tvg-id="0e6d8fb9958f03a66400563410b72546" tvg-chno="71",VTC2
+https://swag.chamjeans.com/tvheadend/stream/channelid/965700878?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtc5hd.jpg" tvg-id="7e0239aa5b023f802ddab95fc664c89c" tvg-chno="72",VTC5 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/708379262?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtc6hd.jpg" tvg-id="5645d8ae1c825dde38aaf79b8e5ea2bb" tvg-chno="73",VTC6 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/785925462?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtc8.jpg" tvg-id="ff4b734357e88b649f979b768e432e6f" tvg-chno="74",VTC8
+https://swag.chamjeans.com/tvheadend/stream/channelid/1131629567?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtc9hd.jpg" tvg-id="877e123852d33625bea3d993f631721b" tvg-chno="75",VTC9 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/940736135?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/102" tvg-id="3cb2fc1507cc586b64dcad3deb7ff268" tvg-chno="76",SCTV4
+https://swag.chamjeans.com/tvheadend/stream/channelid/368882236?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtc16.jpg" tvg-id="3325d873d2e407d2fa446d05a168f17d" tvg-chno="78",VTC16
+https://swag.chamjeans.com/tvheadend/stream/channelid/1943545139?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hanoi2.png" tvg-id="8ba1b17b08d43fa0c698c5d4c6db22a8" tvg-chno="80",Hà Nội 2
+https://swag.chamjeans.com/tvheadend/stream/channelid/2075238795?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/48" tvg-id="f62895207f56121a198e0d378d5ca7ee" tvg-chno="81",K+KIDS
+https://swag.chamjeans.com/tvheadend/stream/channelid/546646262?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png" tvg-id="94fcd274fedbd81e0bf1b07d648665d1" tvg-chno="90",HBO HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1959984276?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/boxmovie1.jpg" tvg-id="37556ce6b66760631021c8cc92da2069" tvg-chno="91",Box Movie 1
+https://swag.chamjeans.com/tvheadend/stream/channelid/1718375735?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/cinemaxhd.png" tvg-id="ea014a78a3b1858125c8a4f70ff90357" tvg-chno="92",Cinemax HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/2018116074?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/axn.png" tvg-id="fc45e3d2ed98676a7d8ee1eaa3906e4b" tvg-chno="93",AXN HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1390626300?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/120" tvg-id="654a8ccb7f139796b6828b00884cdca0" tvg-chno="94",FRANCE 24 - TIENG PHAP
+https://swag.chamjeans.com/tvheadend/stream/channelid/1267485285?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hollywoodclassics.jpg" tvg-id="81cefea2f3066028f37c82a25e3c3d1b" tvg-chno="95",Hollywood Classics
+https://swag.chamjeans.com/tvheadend/stream/channelid/587124353?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/cartoonhd.jpg" tvg-id="c14e4b08da010d64026a6667dfeb9818" tvg-chno="96",Cartoon Network HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/139153089?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/happykids.jpg" tvg-id="c7b161a84130db33a1a649ab6f500869" tvg-chno="98",Happy Kids HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/677491143?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-movies.jpg" tvg-id="b98ca1281ee4555d390d5cd98432fd1b" tvg-chno="99",ON Movies
+https://swag.chamjeans.com/tvheadend/stream/channelid/681675961?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtc3hd.jpg" tvg-id="dc9ddf87d0034bce41167bf4fc5330ce" tvg-chno="100",VTC3 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/132095452?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/drfithd.jpg" tvg-id="5c0fa63910c6efd26545fa8df9e50133" tvg-chno="103",Dr.Fit HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/967184220?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/woman.jpg" tvg-id="180186ec9e95930ea32303bd2db4a3dc" tvg-chno="104",Woman HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1820721432?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/92" tvg-id="ae4f724e38ea4338dc2068da61dc57a9" tvg-chno="105",IN THE BOX
+https://swag.chamjeans.com/tvheadend/stream/channelid/1316114350?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg" tvg-id="9155445b4565fa31fa419aa771074014" tvg-chno="106",Discovery Channel HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1531205009?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/discoveryasiahd.jpg" tvg-id="b2324851771313186590d1b1f36f6a37" tvg-chno="107",Discovery Asia HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1363686066?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/planetearthhd.jpg" tvg-id="c3b56db98321e3bd6e19bc322f053c98" tvg-chno="108",Planet Earth HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/963491267?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg" tvg-id="b9e803ba724880af0ae5b031a471ce63" tvg-chno="109",Animal Planet HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/973334713?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/france24eng.png" tvg-id="9ac14fe4693bfb034e67b5d22ea3804d" tvg-chno="110",France 24 English
+https://swag.chamjeans.com/tvheadend/stream/channelid/1682948506?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/musicbox.jpg" tvg-id="1bb99c1c3130ec4c03602be9d43e8861" tvg-chno="111",Music Box HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/480033051?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/fashionhd.png" tvg-id="0e52bea57f42c7217f28b95bba4d4e31" tvg-chno="112",Fashion TV HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/633229838?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png" tvg-id="4610ee77e9df650e9d980c3a0f45794b" tvg-chno="113",DaVinci HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/2012090438?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg" tvg-id="44fec4c7cf18df8736c77b1942af9bb0" tvg-chno="114",Outdoor Channel HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1204092484?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/bbcnews.png" tvg-id="4176978741c5ae58c1748b644800743f" tvg-chno="115",BBC World News
+https://swag.chamjeans.com/tvheadend/stream/channelid/127366721?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png" tvg-id="795a4c0a435d2fb263c55ccf600ef519" tvg-chno="116",CNN
+https://swag.chamjeans.com/tvheadend/stream/channelid/172776057?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/31" tvg-id="28ed5f26be46dd0dc674782d65487f10" tvg-chno="117",CNBC
+https://swag.chamjeans.com/tvheadend/stream/channelid/643820840?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/116" tvg-id="0d9d859cd039f4ae2d86840fbd51e1d9" tvg-chno="118",CHANNEL NEWS ASIA
+https://swag.chamjeans.com/tvheadend/stream/channelid/478518541?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/134" tvg-id="c9b0a4b77191f1c6e00408babe583804" tvg-chno="119",BANG CHU TAM NGUNG TV5
+https://swag.chamjeans.com/tvheadend/stream/channelid/933540041?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/dw.jpg" tvg-id="957e66e3f6dc5e77cefb66cda9e802c9" tvg-chno="120",DW HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1667661461?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/nhkworld.png" tvg-id="a736320cd82bfe959addfb29d85978d1" tvg-chno="121",NHK World
+https://swag.chamjeans.com/tvheadend/stream/channelid/204617383?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/arirang.png" tvg-id="5c499c4294ffe8b01f80f40af8cc259b" tvg-chno="122",Arirang
+https://swag.chamjeans.com/tvheadend/stream/channelid/1117538652?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/kbsworld.jpg" tvg-id="c373eee7314077c1cb55be3f9f640dd7" tvg-chno="123",KBS World
+https://swag.chamjeans.com/tvheadend/stream/channelid/1743680451?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/afnhd.png" tvg-id="1fefaae5396ff906bddf573b8712d6ce" tvg-chno="124",AFN HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1705701151?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/3" tvg-id="e3dc03fdb00ec06cd241eaba886acf9a" tvg-chno="127",TH BR-VT
+https://swag.chamjeans.com/tvheadend/stream/channelid/2097405155?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/129" tvg-id="e406ef09c1ce5703149cc795c8b0e7a1" tvg-chno="128",SCTV9
+https://swag.chamjeans.com/tvheadend/stream/channelid/166659812?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/cantho.png" tvg-id="86ec7694425068da99f7754b6fb2eb74" tvg-chno="129",Cần Thơ
+https://swag.chamjeans.com/tvheadend/stream/channelid/343338118?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/haiphong.png" tvg-id="b9088a7caf62c1207d79112d55a92286" tvg-chno="130",Hải Phòng
+https://swag.chamjeans.com/tvheadend/stream/channelid/2089420985?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/quangninh1.png" tvg-id="b3c2841022b622f1493d44a1e1505172" tvg-chno="131",Quảng Ninh 1
+https://swag.chamjeans.com/tvheadend/stream/channelid/277136051?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/131" tvg-id="aa4e8c7c92c7f44883940fb686fcb54a" tvg-chno="132",TH DONG THAP 2
+https://swag.chamjeans.com/tvheadend/stream/channelid/2089569962?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/binhduong1.png" tvg-id="d01a2516b4da382130bbd3c33c463fcb" tvg-chno="133",Bình Dương 1
+https://swag.chamjeans.com/tvheadend/stream/channelid/371530448?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/binhduong2.png" tvg-id="7d4d28ce112e79177fa4e10eef03b9c0" tvg-chno="134",Bình Dương 2
+https://swag.chamjeans.com/tvheadend/stream/channelid/1311264125?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/47" tvg-id="4a58fac27ee061f831f4cbe3d38c8795" tvg-chno="135",HUONG DAN DO TIVI
+https://swag.chamjeans.com/tvheadend/stream/channelid/1123702858?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/59" tvg-id="753985e8ad3f90fd3798d7335498da1f" tvg-chno="136",TH BINH DUONG 9
+https://swag.chamjeans.com/tvheadend/stream/channelid/1753561461?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/dongnai1.png" tvg-id="a78c3511389cbafde2c45379059b05f9" tvg-chno="137",Đồng Nai 1
+https://swag.chamjeans.com/tvheadend/stream/channelid/288722087?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/dongnai2.png" tvg-id="b8b7ffcf34a691f05eb049ef8a429e02" tvg-chno="138",Đồng Nai 2
+https://swag.chamjeans.com/tvheadend/stream/channelid/1342158776?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/tiengiang.png" tvg-id="c19f10b812dc81e417de5dcec00819ab" tvg-chno="139",Tiền Giang
+https://swag.chamjeans.com/tvheadend/stream/channelid/940613569?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong2hd.jpg" tvg-id="3cc5221bb45caa84035e61fbd71dd369" tvg-chno="140",THVL2 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/455263548?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong3hd.jpg" tvg-id="e2fe906b8592b6a1593d8a0ad0e139db" tvg-chno="141",THVL3 HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1804664546?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/longan.png" tvg-id="fb4036e8e3187ab5841a9fb54d67fc5a" tvg-chno="142",Long An
+https://swag.chamjeans.com/tvheadend/stream/channelid/1748386043?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/binhphuoc1.png" tvg-id="c5f6a2a1e4ee8101beac8378b48abb1b" tvg-chno="143",Bình Phước 1
+https://swag.chamjeans.com/tvheadend/stream/channelid/564328133?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hoabinh.png" tvg-id="a1e254ebb61c51d344b3ae6e36a0de46" tvg-chno="145",Hòa Bình
+https://swag.chamjeans.com/tvheadend/stream/channelid/1800725153?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/dongthap.png" tvg-id="4adfdffa03936c33b8a358554864e92a" tvg-chno="146",Đồng Tháp
+https://swag.chamjeans.com/tvheadend/stream/channelid/2061492042?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/camau.png" tvg-id="9f34be542a9bd16af636b2102f0d93bf" tvg-chno="147",Cà Mau
+https://swag.chamjeans.com/tvheadend/stream/channelid/1421751455?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/travinh.png" tvg-id="6e25cddfd2f263a6d529505a260e8098" tvg-chno="148",Trà Vinh
+https://swag.chamjeans.com/tvheadend/stream/channelid/1607279982?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/binhdinh.png" tvg-id="73d92c1f535ad51f42e616fefb6e1e2f" tvg-chno="149",Bình Định
+https://swag.chamjeans.com/tvheadend/stream/channelid/523032947?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/kiengiang.png" tvg-id="177f4ab0cc8602bc569fc86b9b755cde" tvg-chno="151",Kiên Giang
+https://swag.chamjeans.com/tvheadend/stream/channelid/810188567?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/quangngai.png" tvg-id="824e549f9f3fc2647f9f93c3c9852d20" tvg-chno="152",Quảng Ngãi
+https://swag.chamjeans.com/tvheadend/stream/channelid/525618818?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/angiang.png" tvg-id="16d199cc19080e1af62cce2fb2610284" tvg-chno="153",An Giang
+https://swag.chamjeans.com/tvheadend/stream/channelid/1285148950?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/bentre.png" tvg-id="9d5f481d01257967ee9a94892506c99c" tvg-chno="154",Bến Tre
+https://swag.chamjeans.com/tvheadend/stream/channelid/491282333?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/tayninh.png" tvg-id="5d74a625bfd4b39d3ffd00dabcb0f1fc" tvg-chno="155",Tây Ninh
+https://swag.chamjeans.com/tvheadend/stream/channelid/631665757?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/baclieu.jpg" tvg-id="cf66699d7ef8b06e1d16a81816433ce8" tvg-chno="156",Bạc Liêu
+https://swag.chamjeans.com/tvheadend/stream/channelid/493446863?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/soctrang.png" tvg-id="28fda7944185acba5a664046b116f979" tvg-chno="157",Sóc Trăng
+https://swag.chamjeans.com/tvheadend/stream/channelid/346553640?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/ninhbinh.png" tvg-id="6fcff691d5e7e6328ea8ed285bd80d02" tvg-chno="158",Ninh Bình
+https://swag.chamjeans.com/tvheadend/stream/channelid/301387631?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hungyen.png" tvg-id="c218dccf9bfaf4530088db939e7d4690" tvg-chno="159",Hưng Yên
+https://swag.chamjeans.com/tvheadend/stream/channelid/1339824322?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hanam.png" tvg-id="55f389080301966c97b9f1aab676c4eb" tvg-chno="160",Hà Nam
+https://swag.chamjeans.com/tvheadend/stream/channelid/143258453?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/bacninh.png" tvg-id="03a641dc97371c13c88836b8e45f194b" tvg-chno="161",Bắc Ninh
+https://swag.chamjeans.com/tvheadend/stream/channelid/1547806211?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/laichau.png" tvg-id="fe8be925427acfd241d302ae7c223242" tvg-chno="162",Lai Châu
+https://swag.chamjeans.com/tvheadend/stream/channelid/636062718?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/phutho.png" tvg-id="c280186e490584868c4105b71b92c6fa" tvg-chno="164",Phú Thọ
+https://swag.chamjeans.com/tvheadend/stream/channelid/1847099586?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/quangbinh.png" tvg-id="cf090181cc60eb24e8ec4fd4eb4a2c11" tvg-chno="166",Quảng Bình
+https://swag.chamjeans.com/tvheadend/stream/channelid/16845263?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/quangtri.png" tvg-id="c1a40bb7ed7f8949ac269b56548c684e" tvg-chno="167",Quảng Trị
+https://swag.chamjeans.com/tvheadend/stream/channelid/923509953?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hue.png" tvg-id="fd7b5c1bc1c6a6b14c6d3fb5223fa9ad" tvg-chno="168",Huế
+https://swag.chamjeans.com/tvheadend/stream/channelid/459045885?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/caobang.png" tvg-id="182ac54b0385ee1c3b369731e867a34b" tvg-chno="171",Cao Bằng
+https://swag.chamjeans.com/tvheadend/stream/channelid/1271212568?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/quangninh3.png" tvg-id="dce5351261db2f573e84c60504ebe276" tvg-chno="172",Quảng Ninh 3
+https://swag.chamjeans.com/tvheadend/stream/channelid/305522140?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/lamdong.png" tvg-id="33c325d6470d3a8baf85a6525502a8b5" tvg-chno="173",Lâm Đồng
+https://swag.chamjeans.com/tvheadend/stream/channelid/1445315379?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/quangnam.png" tvg-id="175a6a9231232a0810503d730c7a508b" tvg-chno="174",Quảng Nam
+https://swag.chamjeans.com/tvheadend/stream/channelid/308959767?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/gialai.png" tvg-id="8561c77d63058f98cfe61d8dc1e5e620" tvg-chno="175",Gia Lai
+https://swag.chamjeans.com/tvheadend/stream/channelid/2110218629?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/kontum.png" tvg-id="115adfcffeea6538e9880b1933430862" tvg-chno="176",Kon Tum
+https://swag.chamjeans.com/tvheadend/stream/channelid/1340037649?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/daklak.png" tvg-id="e6c2ff380f1f823933d402c6901e72cc" tvg-chno="177",Đắk Lắk
+https://swag.chamjeans.com/tvheadend/stream/channelid/956285670?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/daknong.png" tvg-id="41cc2ff1108acc66c4068cec5410f8ff" tvg-chno="178",Đắk Nông
+https://swag.chamjeans.com/tvheadend/stream/channelid/1898957889?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/1" tvg-id="e801c39bfe20e2ef890ddf7fa267a5d4" tvg-chno="179",TH PHU YEN
+https://swag.chamjeans.com/tvheadend/stream/channelid/465764840?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg" tvg-id="b7c11e3a53179647444978b5d3a91708" tvg-chno="193",HTV1
+https://swag.chamjeans.com/tvheadend/stream/channelid/975094199?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/44" tvg-id="fd4e881f02d82553b18f2cf50ca36127" tvg-chno="194",HTV4
+https://swag.chamjeans.com/tvheadend/stream/channelid/529026813?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/100" tvg-id="032af51c5b0257ea4db395e1753b404a" tvg-chno="195",SCTV 5
+https://swag.chamjeans.com/tvheadend/stream/channelid/485829123?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/htvcphunuhd.jpg" tvg-id="da34750fac6ddcd65a6101c511a75306" tvg-chno="196",HTVC Phụ Nữ HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/259339482?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/htvcphunuhd.jpg" tvg-id="c92df14e969fe4f088d43354b8bfb148" tvg-chno="197",HTVC Gia Đình HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1324428745?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/37" tvg-id="42514a2848451fb105a2985f8e1b170c" tvg-chno="200",A&E
+https://swag.chamjeans.com/tvheadend/stream/channelid/675959106?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/57" tvg-id="b5959a2ed387703ffd6cd7d9249d11ce" tvg-chno="201",ACC Network
+https://swag.chamjeans.com/tvheadend/stream/channelid/781882805?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/111" tvg-id="dabdf6f270d6aa816011f1e76ff0cc03" tvg-chno="202",AMC
+https://swag.chamjeans.com/tvheadend/stream/channelid/1928773082?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/112" tvg-id="c048c384b21ad82b88820337026bdf61" tvg-chno="203",American Heroes Channel
+https://swag.chamjeans.com/tvheadend/stream/channelid/79907008?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/94" tvg-id="2ea60e1d4771722e0d974abb65303ddb" tvg-chno="204",Animal Planet
+https://swag.chamjeans.com/tvheadend/stream/channelid/487499310?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/66" tvg-id="071f54b60cc21f6bb1372a2a07a81b1e" tvg-chno="205",BBC America
+https://swag.chamjeans.com/tvheadend/stream/channelid/911482631?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/46" tvg-id="6f3d1032e2e0fd9de79d5cca70a7cfd9" tvg-chno="206",BBC World News HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/839925103?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/56" tvg-id="9f9eff979116c979a95446f59a3750bb" tvg-chno="207",BET
+https://swag.chamjeans.com/tvheadend/stream/channelid/402628255?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/132" tvg-id="7639c24a2932d79fefb6abfbd137aa49" tvg-chno="208",BET Her
+https://swag.chamjeans.com/tvheadend/stream/channelid/1254242678?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/51" tvg-id="606432616ec040b4378fe1ad6629f7c4" tvg-chno="209",Bloomberg TV
+https://swag.chamjeans.com/tvheadend/stream/channelid/1630692448?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/78" tvg-id="4ecda658fc773c192631ef61be1be0e4" tvg-chno="210",Boomerang
+https://swag.chamjeans.com/tvheadend/stream/channelid/1487326542?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/28" tvg-id="e7a75eb41291b4e55d2eda6098105211" tvg-chno="211",Bravo
+https://swag.chamjeans.com/tvheadend/stream/channelid/878618599?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/24" tvg-id="e6070c89792853f616d3c1a537ce96af" tvg-chno="212",Cartoon Network
+https://swag.chamjeans.com/tvheadend/stream/channelid/151783398?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/105" tvg-id="c22150ef963e8fd38bdb119c566ba957" tvg-chno="213",CBS Sports Network
+https://swag.chamjeans.com/tvheadend/stream/channelid/1867522498?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/36" tvg-id="e3b003e58502b38b164740d183ce240c" tvg-chno="214",Cinemax
+https://swag.chamjeans.com/tvheadend/stream/channelid/1694740707?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/25" tvg-id="99a87db8c6f4900b93640c3c09216cb1" tvg-chno="215",CMT
+https://swag.chamjeans.com/tvheadend/stream/channelid/947759257?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/31" tvg-id="3d93552bac8b89627bdf482b59798acf" tvg-chno="216",CNBC
+https://swag.chamjeans.com/tvheadend/stream/channelid/727028541?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/5" tvg-id="dcb55115149cf2b58be22604b72ac4bb" tvg-chno="217",CNN
+https://swag.chamjeans.com/tvheadend/stream/channelid/357676508?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/126" tvg-id="df2e0308fffabfe13176f5ba1fa1b033" tvg-chno="218",Comedy Central
+https://swag.chamjeans.com/tvheadend/stream/channelid/134426335?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/87" tvg-id="5732a798fef952b5e9de806dbcd0f5ea" tvg-chno="219",Cooking Channel
+https://swag.chamjeans.com/tvheadend/stream/channelid/413610583?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/127" tvg-id="4f3654c58fd22a8b1d022b4189be8855" tvg-chno="220",Crime & Investigation HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1163146831?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/26" tvg-id="9eaa15726f0a8daa2acc87b0b07deb1d" tvg-chno="221",CSPAN
+https://swag.chamjeans.com/tvheadend/stream/channelid/1914022558?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/72" tvg-id="487eed9250cfbe86acbfcb95c694ded5" tvg-chno="222",CSPAN 2
+https://swag.chamjeans.com/tvheadend/stream/channelid/317554248?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/99" tvg-id="e295f8ef24fd5fdd9a4d3de0be3cd28f" tvg-chno="223",Destination America
+https://swag.chamjeans.com/tvheadend/stream/channelid/1878562274?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/30" tvg-id="610b506212eedf0df06cb4d79ddba114" tvg-chno="224",Discovery
+https://swag.chamjeans.com/tvheadend/stream/channelid/1649412961?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/9" tvg-id="aa696cb0e35267ae79c034b0fe682ff0" tvg-chno="225",Discovery Family Channel
+https://swag.chamjeans.com/tvheadend/stream/channelid/812411306?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/103" tvg-id="17163d19f13697a1dda73a1d10c27543" tvg-chno="226",Discovery Life
+https://swag.chamjeans.com/tvheadend/stream/channelid/423433751?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/73" tvg-id="533789c72f35f9f7e0f0e6bf1faa14f4" tvg-chno="227",Disney Channel (East)
+https://swag.chamjeans.com/tvheadend/stream/channelid/1200174931?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/84" tvg-id="943b1c3f33c16f036d7e9e46ceff9a30" tvg-chno="228",Disney Junior
+https://swag.chamjeans.com/tvheadend/stream/channelid/1058814868?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/6" tvg-id="04add6712db55ab7c7b730f116de66b4" tvg-chno="229",Disney XD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1909894404?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/58" tvg-id="326ac988a1c645dd9bd64da4610b5036" tvg-chno="230",E!
+https://swag.chamjeans.com/tvheadend/stream/channelid/147417650?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/18" tvg-id="af304f08c27cfb5d023c176a51e55d5b" tvg-chno="231",ESPN
+https://swag.chamjeans.com/tvheadend/stream/channelid/139407535?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/113" tvg-id="5db943ba0e43229ce44fddc0008dca6f" tvg-chno="232",ESPN2
+https://swag.chamjeans.com/tvheadend/stream/channelid/977516893?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/14" tvg-id="9dc810e3fce084841fbd27da94cc87f4" tvg-chno="233",ESPNews
+https://swag.chamjeans.com/tvheadend/stream/channelid/1662044317?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/76" tvg-id="ba5b5be9d1623c38ef0bae8689ecfed4" tvg-chno="234",ESPNU
+https://swag.chamjeans.com/tvheadend/stream/channelid/1767594938?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/81" tvg-id="36bc312a2226fcc516a27e020336928d" tvg-chno="235",Food Network
+https://swag.chamjeans.com/tvheadend/stream/channelid/707902518?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/121" tvg-id="9fc53ccfc6e648a4b61efbd2a2da37a9" tvg-chno="236",Fox Business Network
+https://swag.chamjeans.com/tvheadend/stream/channelid/1329382815?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/83" tvg-id="48786cd122c4971916bc65aaac748d1d" tvg-chno="237",FOX News Channel
+https://swag.chamjeans.com/tvheadend/stream/channelid/1366063176?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/11" tvg-id="5c5136d045787de9e5e65d85287865c3" tvg-chno="238",FOX Sports 1
+https://swag.chamjeans.com/tvheadend/stream/channelid/1345737052?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/74" tvg-id="94abe637d756664e0433994619740fea" tvg-chno="239",FOX Sports 2
+https://swag.chamjeans.com/tvheadend/stream/channelid/937864084?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/93" tvg-id="7bbd5d306cd49d538ca07932fcc0f879" tvg-chno="240",Freeform
+https://swag.chamjeans.com/tvheadend/stream/channelid/811449723?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/68" tvg-id="35dd0c25c05da7635c1478a380026893" tvg-chno="241",Fuse HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/621600053?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/21" tvg-id="1d615f5a6177745d98ccd44061834fc1" tvg-chno="242",FX
+https://swag.chamjeans.com/tvheadend/stream/channelid/1516200221?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/20" tvg-id="f6c79e21d0d79f121f793508cd37be08" tvg-chno="243",FX Movie
+https://swag.chamjeans.com/tvheadend/stream/channelid/564054006?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/16" tvg-id="c4c38726d878d458f2a8d3b665fe7968" tvg-chno="244",FXX
+https://swag.chamjeans.com/tvheadend/stream/channelid/646431684?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/96" tvg-id="2e43eaca4b72cb674aa5153afd177ae4" tvg-chno="245",FYI
+https://swag.chamjeans.com/tvheadend/stream/channelid/1256866606?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/23" tvg-id="9ed8f258173c6d75fbebebbbda1f77f8" tvg-chno="246",Golf Channel
+https://swag.chamjeans.com/tvheadend/stream/channelid/1492310174?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/115" tvg-id="a8e2acc67c8d1c5f1757c45ceaa4d6ba" tvg-chno="247",HBO 2 East
+https://swag.chamjeans.com/tvheadend/stream/channelid/1185735336?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/86" tvg-id="c6876c073fef1472ef4fd03717a14e30" tvg-chno="248",HBO Comedy HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/124553158?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/45" tvg-id="4491da65d9341856326e1766db697596" tvg-chno="249",HBO East
+https://swag.chamjeans.com/tvheadend/stream/channelid/1708822852?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/117" tvg-id="d5c07dd0af71d413faa71bbefd2361bc" tvg-chno="250",HBO Family East
+https://swag.chamjeans.com/tvheadend/stream/channelid/1350418645?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/54" tvg-id="3b79091a37bf8cd90e832b1a6bfd356b" tvg-chno="251",HBO Signature
+https://swag.chamjeans.com/tvheadend/stream/channelid/436828475?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/61" tvg-id="db87682453a2da9af272dff19d24ee83" tvg-chno="252",HBO Zone HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/610830299?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/95" tvg-id="0b97885440fa8be3e79b682dddb61f39" tvg-chno="253",Hallmark
+https://swag.chamjeans.com/tvheadend/stream/channelid/1418237707?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/79" tvg-id="0c40ec6c71c89746a395e1f9f200e30d" tvg-chno="254",Hallmark Drama HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1827422220?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/88" tvg-id="a7bab50da4beea46385c0c77b2ecd32c" tvg-chno="255",Hallmark Movies & Mysteries HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/230013607?profile=pass
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hgtv.jpg" tvg-id="64adcc89ca7fe2924654956f3cc0c6db" tvg-chno="256",HGTV
+https://swag.chamjeans.com/tvheadend/stream/channelid/164408676?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/67" tvg-id="44985bbf2ee6abb139336d7422f8fac2" tvg-chno="257",History
+https://swag.chamjeans.com/tvheadend/stream/channelid/1062967364?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/124" tvg-id="e2ac9020b92256916e82b32c80dfd98c" tvg-chno="258",HLN
+https://swag.chamjeans.com/tvheadend/stream/channelid/546352354?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/91" tvg-id="5694a0ab7058928a69c0704aed2ea048" tvg-chno="259",IFC
+https://swag.chamjeans.com/tvheadend/stream/channelid/731944022?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/63" tvg-id="a0b8e8472b4c4f985160e0f4301ec5db" tvg-chno="260",Investigation Discovery
+https://swag.chamjeans.com/tvheadend/stream/channelid/1206433952?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/50" tvg-id="7537ddba1cbf52588e486b57a6f32d7c" tvg-chno="261",ION Television East HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/987576181?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/107" tvg-id="c6c31f817a455374fa05a47286e9b96d" tvg-chno="262",Lifetime
+https://swag.chamjeans.com/tvheadend/stream/channelid/18858950?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/85" tvg-id="a862bb584b38d0785ea0859f32c4f6c7" tvg-chno="263",LMN
+https://swag.chamjeans.com/tvheadend/stream/channelid/1488675496?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/39" tvg-id="8f2844aa563dab087a61bd4dc6ab8679" tvg-chno="264",Logo
+https://swag.chamjeans.com/tvheadend/stream/channelid/709109903?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/69" tvg-id="8b13e64907f3bce1959d1e7369270de3" tvg-chno="265",MLB Network
+https://swag.chamjeans.com/tvheadend/stream/channelid/1239815051?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/7" tvg-id="bafa847b99d999bd496a1212bf346725" tvg-chno="266",MoreMAX
+https://swag.chamjeans.com/tvheadend/stream/channelid/2072312506?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/62" tvg-id="31bbd81d81bbccc8c290e283c6e2f6c6" tvg-chno="267",MotorTrend HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/500742961?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/90" tvg-id="286798915cde33c40a155f57c48d486e" tvg-chno="268",MovieMAX
+https://swag.chamjeans.com/tvheadend/stream/channelid/295200552?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/114" tvg-id="a8caa8b2b33ad2c7b762ac7c26eab0c7" tvg-chno="269",MSNBC
+https://swag.chamjeans.com/tvheadend/stream/channelid/849922728?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/4" tvg-id="ef11495c94d35355f1dc24516e76efcd" tvg-chno="270",MTV
+https://swag.chamjeans.com/tvheadend/stream/channelid/1548292591?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/82" tvg-id="946748d0924910e1e155e4b800dd7274" tvg-chno="271",Nat Geo WILD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1346922388?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/12" tvg-id="6d49a1ffde8f2be1c46c850519e0035e" tvg-chno="272",National Geographic
+https://swag.chamjeans.com/tvheadend/stream/channelid/2141276525?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/34" tvg-id="f850c49bbdbf2676d3c4ed9951512a62" tvg-chno="273",NBA TV
+https://swag.chamjeans.com/tvheadend/stream/channelid/465850616?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/41" tvg-id="fee98f7c6e64356d588579288fc3fe38" tvg-chno="274",Newsmax TV
+https://swag.chamjeans.com/tvheadend/stream/channelid/2089806334?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/49" tvg-id="a463f756c639fa21449793a371818df1" tvg-chno="275",NFL Network
+https://swag.chamjeans.com/tvheadend/stream/channelid/1459053476?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/35" tvg-id="7978b9d0052c807edc78eb74fe6a41ae" tvg-chno="276",NFL Red Zone
+https://swag.chamjeans.com/tvheadend/stream/channelid/1354332281?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/101" tvg-id="0fef8fa455b2b597316dd34459dfac20" tvg-chno="277",NHL Network
+https://swag.chamjeans.com/tvheadend/stream/channelid/613412623?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/27" tvg-id="dba38c2fb0cd709d91fa9c14ea627935" tvg-chno="278",Nick Jr.
+https://swag.chamjeans.com/tvheadend/stream/channelid/797746139?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/108" tvg-id="27361cdc21513e8da23bf7eedb8f1fa1" tvg-chno="279",Nickelodeon East
+https://swag.chamjeans.com/tvheadend/stream/channelid/1545352743?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/10" tvg-id="b546179f8d480f5ff9c1c83b6bd3b5be" tvg-chno="280",Nicktoons
+https://swag.chamjeans.com/tvheadend/stream/channelid/521619125?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/2" tvg-id="de5e4a350fd7e51c221a117469997f31" tvg-chno="281",Outdoor Channel
+https://swag.chamjeans.com/tvheadend/stream/channelid/894066398?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/122" tvg-id="215fdc9a8fec4032234d96a916016d11" tvg-chno="282",OWN
+https://swag.chamjeans.com/tvheadend/stream/channelid/450649889?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/97" tvg-id="754794e09c8b6918f2ab0f330605f3c2" tvg-chno="283",Oxygen True Crime
+https://swag.chamjeans.com/tvheadend/stream/channelid/1620330357?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/43" tvg-id="145063c49dcb5ee55dda48af78320bfb" tvg-chno="284",PBS 13 (WNET) New York
+https://swag.chamjeans.com/tvheadend/stream/channelid/1147359252?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/80" tvg-id="6a2f90589de4bb5a64a55325692d52df" tvg-chno="285",ReelzChannel
+https://swag.chamjeans.com/tvheadend/stream/channelid/1485844330?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/13" tvg-id="8ff79b8b9446aca7ed1b1705fb3e385d" tvg-chno="286",Science
+https://swag.chamjeans.com/tvheadend/stream/channelid/194770831?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/128" tvg-id="b169036e208e9c152ddf7308cc54a7b4" tvg-chno="287",Showtime (E)
+https://swag.chamjeans.com/tvheadend/stream/channelid/1845717425?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/29" tvg-id="a48ac22ecc9c7a4aaea39c015328eb1a" tvg-chno="288",SHOWTIME 2
+https://swag.chamjeans.com/tvheadend/stream/channelid/784501412?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/55" tvg-id="2b13bf0ad290dfdb1d1b1f7fa139f3c6" tvg-chno="289",STARZ East
+https://swag.chamjeans.com/tvheadend/stream/channelid/180294443?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/119" tvg-id="4f4566f24f01aab9a8409912f0d2b45b" tvg-chno="290",SundanceTV HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1919305039?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/65" tvg-id="865ece1068be7bf4ff61c91302fffcf0" tvg-chno="291",SYFY
+https://swag.chamjeans.com/tvheadend/stream/channelid/281960070?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/98" tvg-id="6759b8f945852a293df5fd43ef5034a7" tvg-chno="292",TBS
+https://swag.chamjeans.com/tvheadend/stream/channelid/2042124647?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/110" tvg-id="eff812b392156f75baf9605d821a4113" tvg-chno="293",TCM
+https://swag.chamjeans.com/tvheadend/stream/channelid/856881391?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/104" tvg-id="b0161d85919b3339f602abe6e0b6f029" tvg-chno="294",TeenNick
+https://swag.chamjeans.com/tvheadend/stream/channelid/85792432?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/106" tvg-id="f8480f407eab49cfd71ed1206aba7951" tvg-chno="295",Telemundo East
+https://swag.chamjeans.com/tvheadend/stream/channelid/1074743544?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/89" tvg-id="fff8cfc859bbba7f93ad7caeb417183a" tvg-chno="296",Tennis Channel
+https://swag.chamjeans.com/tvheadend/stream/channelid/1221589247?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/125" tvg-id="cff4fb2591f31ade244ce9f9401e1a96" tvg-chno="297",The CW (WPIX New York)
+https://swag.chamjeans.com/tvheadend/stream/channelid/637269199?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/60" tvg-id="59b2b752f7edb394a74928c62d01a9fa" tvg-chno="298",The Movie Channel East
+https://swag.chamjeans.com/tvheadend/stream/channelid/1387770457?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/33" tvg-id="40ac9af90450d16751c19fa517b38711" tvg-chno="299",The Weather Channel
+https://swag.chamjeans.com/tvheadend/stream/channelid/2040179776?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/109" tvg-id="4160979267b11402dc888d69e2416acd" tvg-chno="300",TLC
+https://swag.chamjeans.com/tvheadend/stream/channelid/311910465?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/8" tvg-id="a6841e84ccae4e5ebebafccb32e1ab52" tvg-chno="301",TNT
+https://swag.chamjeans.com/tvheadend/stream/channelid/69108902?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/71" tvg-id="b270a8cdd1ab9ec85f6b10f67fccfa1f" tvg-chno="302",Travel Channel
+https://swag.chamjeans.com/tvheadend/stream/channelid/1302884530?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/38" tvg-id="72927ac479078aaba287aff371b95d5e" tvg-chno="303",truTV
+https://swag.chamjeans.com/tvheadend/stream/channelid/1148883570?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/133" tvg-id="c2e5115f9bb49b15dc35c7258f6e9ab3" tvg-chno="304",TV One HD
+https://swag.chamjeans.com/tvheadend/stream/channelid/1595008450?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/17" tvg-id="8e55cc566c8a6235739379e720737775" tvg-chno="305",Universal Kids
+https://swag.chamjeans.com/tvheadend/stream/channelid/1456231822?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/53" tvg-id="a29d4b34f874d0eee40a82e43e073d3d" tvg-chno="306",Univision East
+https://swag.chamjeans.com/tvheadend/stream/channelid/877370786?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/22" tvg-id="6f12e501be9c38df7e7b05fc39e4e00a" tvg-chno="307",USA Network
+https://swag.chamjeans.com/tvheadend/stream/channelid/31789679?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/130" tvg-id="bdb1a18e52add7c8594f0e0e5b458cd0" tvg-chno="308",VH1
+https://swag.chamjeans.com/tvheadend/stream/channelid/245477821?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/32" tvg-id="ea07a13a4db3f7cf0edd46baff788de4" tvg-chno="309",VICE
+https://swag.chamjeans.com/tvheadend/stream/channelid/983631850?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/70" tvg-id="4134aba77f851223fd76b6f98cea77f7" tvg-chno="310",WABC (New York) ABC East
+https://swag.chamjeans.com/tvheadend/stream/channelid/665531457?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/15" tvg-id="85adbd1273dae99605bd815ec83d1d62" tvg-chno="311",WCBS (New York) CBS East
+https://swag.chamjeans.com/tvheadend/stream/channelid/314420613?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/118" tvg-id="76f912e06e586cc40f7a1a15e5521319" tvg-chno="312",WE tv
+https://swag.chamjeans.com/tvheadend/stream/channelid/1611856246?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/75" tvg-id="6f6e4d7a20761036c83803a569e85688" tvg-chno="313",WNBC (New York) NBC East
+https://swag.chamjeans.com/tvheadend/stream/channelid/2051894895?profile=pass
+#EXTINF:-1 tvg-logo="https://swag.chamjeans.com/tvheadend/imagecache/42" tvg-id="46aca4b8f142c29ee681a08b22c3df1a" tvg-chno="314",WNYW (New York) FOX East
+https://swag.chamjeans.com/tvheadend/stream/channelid/950316102?profile=pass
